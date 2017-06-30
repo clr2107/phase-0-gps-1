@@ -10,4 +10,4 @@ some sort of code
 
 [link](https://www.google.com)
 
-![](Screenshot.jpg?raw=true)
+![](Screenshot.png?raw=true)
