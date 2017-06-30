@@ -21,4 +21,3 @@
 #Checkout git help
  1272  subl README.md
 #Open file in Sublime
-
